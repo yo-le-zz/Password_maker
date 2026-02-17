@@ -1,0 +1,1 @@
+python -m nuitka --standalone --windows-console-mode=force --windows-icon-from-ico="assets/icon.ico" --output-dir=dist --output-filename=password_maker.exe --remove-output src/main.py
